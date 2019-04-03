@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: 支付宝二维码
+date: 2019-4-03
 categories: blog
 tags: [标签一,标签二]
-description: 文章金句。
+description: 来者不拒绝，打钱的都发财。
 ---
 
-这里是博客正文。
+图片稍等
 
 
 
