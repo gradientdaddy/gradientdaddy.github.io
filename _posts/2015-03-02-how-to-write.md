@@ -6,8 +6,16 @@ categories: blog
 tags: [标签一,标签二]
 description: 来者不拒绝，打钱的都发财。
 ---
-发财发财
-![](/images/favicon.png)
+
+来者不拒绝，打钱的都发财
+
+来者不拒绝，打钱的都发财
+
+来者不拒绝，打钱的都发财
+
+来者不拒绝，打钱的都发财
+
+![](/images/WechatIMG1.jpeg)
 
 
 
