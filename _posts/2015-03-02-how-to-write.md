@@ -15,7 +15,7 @@ description: 来者不拒绝，打钱的都发财。
 
 来者不拒绝，打钱的都发财
 
-![](/images/WechatIMG1.jpeg)
+![](/img/WechatIMG1.jpeg)
 
 
 
